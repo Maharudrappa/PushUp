@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void update(){
-      int i =0;
 
     }
 }
